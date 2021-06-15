@@ -1,2 +1,2 @@
 # fullstackopen
-fullstackopen course
+exercises from fullstackopen.com
